@@ -1,6 +1,6 @@
 # Hi, I'm Alfie
 
-I'm a Data Scientist with over 7 years of experience. I like building platform agnostic data pipelines and automated analyses.
+I'm a Data Scientist. I like building platform agnostic data pipelines and automated analyses for big data.
 
 I'm especially interested in spatial, mobility, and transport related data.
 
